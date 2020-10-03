@@ -1,0 +1,7 @@
+{
+  "name": "ApostropheLive",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
